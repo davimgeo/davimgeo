@@ -1,5 +1,5 @@
 <div>
-    <img align="right" src="[https://ibb.co/0rxpVVQ&">
+    <img align="right" src="https://media.discordapp.net/attachments/581156177199628300/1212603049961586728/b291449-bPiIVRLdT2wn.png?ex=65f26f98&is=65dffa98&hm=145f2b87c98cc12a2cf8184b0d1491416441686ed431edcb77002275630bc981&=&format=webp&quality=lossless&width=287&height=281&">
 </div>
   
 <div style="display: flex; width: 100%;">
