@@ -1,7 +1,7 @@
-![Preview](https://cdn.discordapp.com/attachments/581156177199628300/1213353658348077057/kazusacrop.jpg?ex=65f52aa7&is=65e2b5a7&hm=5ca61493ddbeba8749c81ef80580c0a946b5bca923601bb34028501754c550dc&)
+![image](https://cdn.discordapp.com/attachments/581156177199628300/1213353658348077057/kazusacrop.jpg?ex=65f52aa7&is=65e2b5a7&hm=5ca61493ddbeba8749c81ef80580c0a946b5bca923601bb34028501754c550dc&)
 
 <div style="display: flex; width: 100%;">
-    <h1>Hi, I'm Davi! <br> Welcome to my account on GitHub 👋</h1>
+    <h1>Hi, I'm Davi! 👋</h1>
     <ul>
         <li> 
             📚 Undergraduate Student Geophysics at Universidade Federal Fluminense
