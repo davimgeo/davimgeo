@@ -1,7 +1,5 @@
-<div>
-    <img align="right" src="https://media.discordapp.net/attachments/581156177199628300/1212603049961586728/b291449-bPiIVRLdT2wn.png?ex=65f26f98&is=65dffa98&hm=145f2b87c98cc12a2cf8184b0d1491416441686ed431edcb77002275630bc981&=&format=webp&quality=lossless&width=287&height=281&">
-</div>
-  
+![Preview](https://cdn.discordapp.com/attachments/581156177199628300/1213353658348077057/kazusacrop.jpg?ex=65f52aa7&is=65e2b5a7&hm=5ca61493ddbeba8749c81ef80580c0a946b5bca923601bb34028501754c550dc&)
+
 <div style="display: flex; width: 100%;">
     <h1>Hi, I'm Davi! <br> Welcome to my account on GitHub 👋</h1>
     <ul>
@@ -23,5 +21,4 @@
 ## Estatísticas
 <div>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimgeo&layout=compact&langs_count=7&theme=material-palenight"/>    
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=davimgeo&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 </div>
