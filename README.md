@@ -10,7 +10,7 @@
            🚀 I'm an intern at Horizonte Soluções Geofísicas
         </li>
         <li>
-            🐍 Currently studying Python
+            🐍 Currently studying Python and C++
         </li>
         <li>
            🗻 I'm learning how to develop algorithms about seismic simulation and inverse problems
