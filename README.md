@@ -1,4 +1,4 @@
-![image](https://media.discordapp.net/attachments/581156177199628300/1213353658348077057/kazusacrop.jpg?ex=6635c427&is=66234f27&hm=1a406fb985d924e12c5a1d275eae628e996fc0ea59981ce85aaf170a46ad4526&=&format=webp&width=1439&height=492)
+![image](https://media.discordapp.net/attachments/581156177199628300/1213353658348077057/kazusacrop.jpg?ex=664d7f27&is=664c2da7&hm=d3b4b2e17f8d4c98044f0b3e61bd388c7d7243b721d751916cc54230ddd5bc42&=&format=webp&width=1439&height=492)
 
 <div style="display: flex; width: 100%;">
     <h1>Hi, I'm Davi! 👋</h1>
