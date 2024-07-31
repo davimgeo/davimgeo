@@ -12,7 +12,7 @@
 
 # ⭐ Experience
 
-I am an undergraduate student and researcher in Geophysics, passionate about seismic imaging and inverse problems. At GISIS I operate seismic processing and interpretation software, also develop codes about seismic modeling/processing. As a volunteer at Horizonte Soluções Geofísicas, a junior enterprise, I develop codes for processing and improving the imaging of electrical data using Electric Methods. I also have experience in quality checking electrical data and operating inversion software for electrical data.
+I am an undergraduate student and researcher in Geophysics, passionate about seismic imaging and inverse problems. At GISIS, I work with seismic processing and interpretation software, and I also develop codes for seismic modeling and processing. Additionally, as a volunteer at Horizonte Soluções Geofísicas, a junior enterprise, I write code to enhance the processing and imaging of electrical data. My experience also includes quality checking of electrical data and operating inversion software for electrical data.
 
 # 💻 Technologies
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
