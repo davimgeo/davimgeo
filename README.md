@@ -6,8 +6,7 @@
 
 * 📚 Undergraduate Student in Geophysics at Universidade Federal Fluminense
 * 🌍 Undergraduate Reseacher at GISIS 
-* 🚀 I'm an intern at Horizonte Soluções Geofísicas
-* 🐍 Currently studying Python and C++
+* 🐍 Currently studying C
 * 🗻 I'm learning how to develop algorithms for seismic simulation and inverse problems
 
 # ⭐ Experience
