@@ -1,4 +1,4 @@
-![lain](https://i.imgur.com/1EGLMuj.png)
+![lain](https://i.imgur.com/MFK8PlC.png)
 
 ## 💻 Technologies
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
