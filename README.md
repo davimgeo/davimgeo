@@ -13,6 +13,6 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats-xycld.vercel.app/api?username=davimgeo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&"/>
-  <img height="180em" src="https://github-readme-stats-xycld.vercel.app/api/top-langs/?username=davimgeo&layout=compact&theme=gruvbox&hide=Makefile,Vim%20Script&hide_border=true&"/>
+  <img height="180em" src="https://github-readme-stats-xycld.vercel.app/api?username=davimgeo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-xycld.vercel.app/api/top-langs/?username=davimgeo&layout=compact&theme=gruvbox&hide=Makefile,Vim%20Script&hide_border=true&bg_color=0d1117"/>
 </div>
