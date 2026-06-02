@@ -29,5 +29,5 @@ I am an undergraduate student and researcher in Geophysics, passionate about sei
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=davimgeo&color=black&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=davimgeo&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
