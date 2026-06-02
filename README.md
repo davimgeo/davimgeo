@@ -28,6 +28,8 @@ I am an undergraduate student and researcher in Geophysics, passionate about sei
 # 📊 Github Stats
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=davimgeo&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davimgeo&theme=tokyonight" alt="Profile Summary"/>
 </div>
