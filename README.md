@@ -26,4 +26,8 @@ I am an undergraduate student and researcher in Geophysics, passionate about sei
 * Matplotlib
 
 # 📊 Github Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=davimgeo)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=davimgeo&color=black&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
