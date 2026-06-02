@@ -1,4 +1,4 @@
-![lain](https://i.imgur.com/a8dwN8b.png)
+![lain](https://i.imgur.com/1EGLMuj.png)
 
 ## 💻 Technologies
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -10,7 +10,6 @@
 ## 📊 Statistics
 
 <div align="center">
-  
   <img height="180em" src="https://github-readme-stats-xycld.vercel.app/api?username=davimgeo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats-xycld.vercel.app/api/top-langs/?username=davimgeo&layout=compact&theme=gruvbox&hide=Makefile,Vim%20Script&hide_border=true&bg_color=0d1117"/>
 </div>
