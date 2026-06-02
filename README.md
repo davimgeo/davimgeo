@@ -1,4 +1,4 @@
-![kazusa](https://i.imgur.com/YiCEZbY.jpeg)
+![lain](https://i.imgur.com/5SZY5f7.jpeg)
 
 ## Hi, I'm Davi! 👋
 
