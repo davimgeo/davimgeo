@@ -1,4 +1,4 @@
-![lain](https://i.imgur.com/5SZY5f7.jpeg)
+![lain](https://i.imgur.com/a8dwN8b.png)
 
 ## Hi, I'm Davi! 👋
 
