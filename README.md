@@ -11,12 +11,12 @@
 
 <div align="center">
   <img
-    height="180em"
+    height="150em"
     src="https://github-readme-stats.shion.dev/api?username=davimgeo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=issues,contribs&hide_border=true&bg_color=0d1117"
   />
    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    height="180em"
+    height="150em"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=davimgeo&layout=compact&theme=gruvbox&hide=Makefile,Vim%20Script&hide_border=true&bg_color=0d1117"
   />
 </div>
